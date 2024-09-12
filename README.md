@@ -1,16 +1,34 @@
-# calculator_app
+# iOS-like Calculator App
 
-A new Flutter project.
+This **iOS-like Calculator** app replicates the clean, simple, and intuitive interface of the default iOS calculator. Built using Flutter, the app supports basic arithmetic operations with a sleek user interface.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Basic Operations**: Addition, subtraction, multiplication, and division.
+- **Clear Functionality**: Easily clear the current calculation or reset everything.
+- **Percentage Calculation**: Supports percentage operations.
+- **iOS-inspired Design**: Mimics the iOS calculator design for a familiar user experience.
+- **Responsive UI**: Adjusts smoothly to different screen sizes.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 1. Calculator Interface
+A simple and clean calculator UI inspired by iOS.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Calculator Interface](<placeholder-for-calculator-interface-image>)
+
+## Key Functionalities
+
+- **Number Input**: Users can enter multi-digit numbers and perform calculations with precision.
+- **Operators**: Basic operators (+, -, ×, ÷) for performing arithmetic.
+- **Decimal Point**: Supports decimal calculations for more accurate results.
+- **Clear Button**: Clear the current input or reset the entire calculator.
+- **Percentage Calculation**: Quickly calculate percentages with the % button.
+- **Equals Button**: Execute calculations and display the result instantly.
+
+## Technologies Used
+
+- **Flutter**: For building the UI and handling interaction.
+- **Dart**: The primary language used for development.
+- **Provider**: For managing the app's state.
+
