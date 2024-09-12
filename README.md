@@ -32,3 +32,16 @@ A simple and clean calculator UI inspired by iOS.
 - **Dart**: The primary language used for development.
 - **Provider**: For managing the app's state.
 
+## How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/FaezAnsar/calculator_app.git
+   cd calculator_app
+2. Get dependencies:
+   ```bash
+   flutter pub get
+3. Run on simulator/device:
+   ```bash
+   flutter run
+
